@@ -38,9 +38,14 @@ digital-clock/
 ├── clock.js # JavaScript logic
 └── clock.css # (Optional) Styling
 
+---
+
 
 📄 License
 This project is licensed under the MIT License.
+
+---
+
 
 👤 Author
 Prateek Srivastava
