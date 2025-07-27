@@ -33,7 +33,7 @@ A clean and simple digital clock built using **HTML**, **CSS** (optional), and *
 
 ## 📁 File Structure
 
-digital-clock/
+Digital-Clock/
 ├── clock.html # HTML layout
 ├── clock.js # JavaScript logic
 └── clock.css # (Optional) Styling
