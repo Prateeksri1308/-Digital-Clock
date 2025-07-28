@@ -1,55 +1,75 @@
 # ⏰ Digital Clock using JavaScript
 
-A clean and simple digital clock built using **HTML**, **CSS** (optional), and **vanilla JavaScript**. It displays the current time in real-time and updates every second.
+A clean and simple **Digital Clock** built with **HTML**, **CSS**, and **vanilla JavaScript**. It displays the current time in real-time and updates automatically every second.
+
+---
+
+## 🌐 Live Demo
+
+🔗 [View Live](https://prateeksri1308.github.io/-Digital-Clock/) 
 
 ---
 
 ## 🚀 Features
 
-- 🕒 Displays current local time (Hours:Minutes:Seconds)
-- 🔄 Live time updates every second
-- 🧠 Uses built-in `Date()` object
-- 📦 Lightweight – no external libraries
-- 🌐 Works in all modern browsers
+- 🕒 Shows current **local time** (HH:MM:SS format)  
+- 🔄 **Real-time updates** every second  
+- 📆 Optional: 12-hour or 24-hour format  
+- 🧠 Uses JavaScript's native `Date()` object  
+- 🧩 Lightweight – no external libraries  
+- 🌐 Compatible with all modern browsers  
+
+----
+
+📱 Mobile Responsive
+Fully responsive design: Clock layout adjusts perfectly on screens smaller than 786px for mobile and tablets.
 
 ---
 
 ## 💡 How It Works
 
-1. JavaScript’s `Date()` object gets the current system time.
-2. The time is broken into hours, minutes, and seconds.
-3. DOM elements are updated every 1000ms using `setInterval()`.
-4. Optionally, the time can be shown in **12-hour** or **24-hour** format.
+1. JavaScript’s `Date()` object fetches the current system time.  
+2. It splits the time into hours, minutes, and seconds.  
+3. `setInterval()` updates the time every 1000 milliseconds (1 second).  
+4. The result is displayed on the web page via DOM manipulation.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- HTML (structure)
-- JavaScript (logic)
-- CSS (optional styling)
+- **HTML5** – Page structure  
+- **CSS3** – (Optional) Styling  
+- **JavaScript** – Time logic and live updates  
 
 ---
 
 ## 📁 File Structure
 
 Digital-Clock/
-├── clock.html # HTML layout
+├── clock.html # Main HTML file
 ├── clock.js # JavaScript logic
-└── clock.css # (Optional) Styling
+├── clock.css # (Optional) Styling
+└── README.md # Project documentation
+
 
 ---
 
+## 🧑‍💻 Author
 
-📄 License
-This project is licensed under the MIT License.
+**Prateek Srivastava**  
+🎓 BCA Student at UPES  
+🔗 GitHub: [@Prateeksri1308](https://github.com/Prateeksri1308)  
+📧 Email: prateeksri74@gmail.com
 
 ---
 
+## 📄 License
 
-👤 Author
-Prateek Srivastava
-GitHub: @prateek1308
-Email: prateeksri74@gmail.com
+This project is licensed under the **MIT License** — free to use, modify, and distribute.
 
+---
+
+## 🙌 Contribute
+
+Feel free to fork the repo, open an issue, or submit a pull request if you want to contribute or improve the project!
 
