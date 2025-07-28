@@ -6,7 +6,7 @@ A clean and simple **Digital Clock** built with **HTML**, **CSS**, and **vanilla
 
 ## 🌐 Live Demo
 
-🔗 ![View Live](https://prateeksri1308.github.io/-Digital-Clock/) 
+🔗 [View Live](https://prateeksri1308.github.io/-Digital-Clock/) 
 
 ---
 
