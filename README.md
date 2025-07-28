@@ -21,7 +21,7 @@ A clean and simple **Digital Clock** built with **HTML**, **CSS**, and **vanilla
 
 ----
 
-📱 Mobile Responsive
+## 📱 Mobile Responsive
 Fully responsive design: Clock layout adjusts perfectly on screens smaller than 786px for mobile and tablets.
 
 ---
